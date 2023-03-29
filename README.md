@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning compilers && program verification && game development.
 - 📖 This is [My Book List](https://trello.com/b/F2hTwuCk), you can use this [Template](https://trello.com/b/vO0eergA) if you're interested in it.
 - 🎮 This is [My Game List](https://trello.com/b/TFRzLx30), feel free to recommend wonderful games to me.
-- 🎸 I'm a fingerstyle guitar amateur, you can follow me on my bilibili channel [IceFox99](https://space.bilibili.com/15718497).
+- 🎸 I'm a fingerstyle guitar amateur, you can follow me on [Bilibili: IceFox99](https://space.bilibili.com/15718497).
 - 🤩 I really enjoy watching anime, like *Rick and Morty*, *鋼の錬金術師*, *Clannad*, etc. Feel free to recommend your favorite one to me.
 
 <h3 align="left">Languages and Tools:</h3>
