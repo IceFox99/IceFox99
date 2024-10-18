@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IceFox99</h1>
-<h4 align="center"><a href="./cv/resume.pdf">Resume</a></h4>
+<h4 align="center"><a href="./cv/resume.pdf">Resume</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://orcid.org/0009-0000-3356-9429">Publications</a></h4>
 
 - 🏡 I'm living in Japan and pursuing my master degree at [Chiba Lab](https://www.csg.ci.i.u-tokyo.ac.jp/) in The University of Tokyo.
 - 🌱 I’m currently focusing on program verification && intelligent debugging techniques.
