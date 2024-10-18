@@ -3,7 +3,7 @@
 
 - 🏡 I'm living in Japan and pursuing my master degree at [Chiba Lab](https://www.csg.ci.i.u-tokyo.ac.jp/) in The University of Tokyo.
 - 🌱 I’m currently focusing on program verification && intelligent debugging techniques.
-- 📖 This is [My Book List](https://trello.com/b/F2hTwuCk), you can use this [Template](https://trello.com/b/vO0eergA) if you're interested in it.
+- 📖 This is [My Book List](https://trello.com/b/vO0eergA/game-programmer), you can use it as a template if you're interested in it.
 - 🎮 This is [My Game List](https://trello.com/b/TFRzLx30), feel free to recommend wonderful games to me.
 - 🎸 I'm a fingerstyle guitar amateur, you can follow me on [Bilibili: IceFox99](https://space.bilibili.com/15718497).
 - 🤩 I really enjoy watching anime, like *Rick and Morty*, *鋼の錬金術師*, *Cowboy Bebop*, *Clannad*, etc. Feel free to recommend your favorite to me!
