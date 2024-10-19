@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm IceFox99</h1>
 <h4 align="center"><a href="./cv/resume.pdf">Resume</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://orcid.org/0009-0000-3356-9429">Publications</a></h4>
 
-- 🏡 I'm living in Japan and pursuing my master degree at [Chiba Lab](https://www.csg.ci.i.u-tokyo.ac.jp/) in The University of Tokyo.
-- 🌱 I’m currently focusing on program verification && intelligent debugging techniques.
-- 📖 This is [My Book List](https://trello.com/b/vO0eergA/game-programmer), you can use it as a template if you're interested in it.
-- 🎮 This is [My Game List](https://trello.com/b/TFRzLx30), feel free to recommend wonderful games to me.
-- 🎸 I'm a fingerstyle guitar amateur, you can follow me on [Bilibili: IceFox99](https://space.bilibili.com/15718497).
-- 🤩 I really enjoy watching anime, like *Rick and Morty*, *鋼の錬金術師*, *Cowboy Bebop*, *Clannad*, etc. Feel free to recommend your favorite to me!
+- 🎓 I obtained my master's degree at [Chiba Lab](https://www.csg.ci.i.u-tokyo.ac.jp/) in *The University of Tokyo* and now reside in Tokyo
+- 🔭 I’m currently focusing on backend technologies, program verification and intelligent debugging techniques
+- 📖 This is [My Book List](https://trello.com/b/vO0eergA/game-programmer), you can use it as a template if you're interested in it
+- 🎮 This is [My Game List](https://trello.com/b/TFRzLx30), feel free to recommend wonderful games to me
+- 🎸 I'm a fingerstyle guitar amateur, you can follow me on [Bilibili@IceFox99](https://space.bilibili.com/15718497)
+- 🤩 I really enjoy watching anime, including *Rick and Morty*, *Fullmetal Alchemist*, *Cowboy Bebop*, *Clannad*, etc. Feel free to recommend your favorite to me!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -27,4 +27,5 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 </p>
