@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm IceFox99</h1>
 <h4 align="center"><a href="./cv/resume.pdf">Resume</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://orcid.org/0009-0000-3356-9429">Publications</a></h4>
 
-- 🎓 I obtained my master's degree at [Chiba Lab](https://www.csg.ci.i.u-tokyo.ac.jp/) in *The University of Tokyo* and now reside in Tokyo
+- 🎓 I obtained my master's degree at [Chiba Lab](https://www.csg.ci.i.u-tokyo.ac.jp/) in *The University of Tokyo*, and now reside in Tokyo
 - 🔭 I’m currently focusing on backend technologies, program verification and intelligent debugging techniques
 - 📖 This is [My Book List](https://trello.com/b/vO0eergA/game-programmer), you can use it as a template if you're interested in it
 - 🎮 This is [My Game List](https://trello.com/b/TFRzLx30), feel free to recommend wonderful games to me
