@@ -56,7 +56,7 @@ cv:
       - name: Sand
         date: '[GitHub](https://github.com/IceFox99/Trashcan/tree/Sand)'
         highlights:
-          - A programming language written in C++ with a ll(1) parser and a simple interpreter. It supports explicit function inling, function redefinition, labeled loop, etc. 
+          - A programming language written in C++ with a ll(1) parser and a simple interpreter. It supports explicit function inlining, function redefinition, labeled loop, etc. 
           - 'Tools Used: C++, Makefile'
     technologies:
       - label: Languages
