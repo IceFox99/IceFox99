@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IceFox99</h1>
-<h4 align="center"><a href="./cv/resume.pdf">Resume</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://orcid.org/0009-0000-3356-9429">Publications</a></h4>
+<h4 align="center"><a href="https://icefox99.github.io/cv/resume.pdf">Resume</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://orcid.org/0009-0000-3356-9429">Publications</a></h4>
 
 - 🎓 I obtained my master's degree at [Chiba Lab](https://www.csg.ci.i.u-tokyo.ac.jp/) in *The University of Tokyo*, and now reside in Tokyo
 - 🔭 I’m currently focusing on backend technologies, program verification and intelligent debugging techniques
